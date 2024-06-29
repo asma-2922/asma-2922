@@ -20,9 +20,9 @@ I am a passionate data scientist with a strong foundation in machine learning, d
   Addressed the discrepancies between product descriptions and actual product quality or functionality. This project aimed to reduce uncertainty and assist consumers in making better-informed purchasing decisions by analyzing reviews to provide insights into specific aspects of products.
 
 - **[Sales Performance Dashboard](https://github.com/asma-2922/Sales-Performance-Dashboard)**
-   Created an interactive dashboard to analyze and visualize sales data, providing insights into sales performance, customer behavior, and regional distribution to support data-driven decision-making.
+  Created an interactive dashboard to analyze and visualize sales data, providing insights into sales performance, customer behavior, and regional distribution to support data-driven decision-making.
 
- - **[Content-based Recommender System](https://github.com/asma-2922/content-based-recommendation-system)**  
+- **[Content-based Recommender System](https://github.com/asma-2922/content-based-recommendation-system)**  
   Developed a recommender system using the Google Reviews dataset for Illinois to suggest places to users based on their reviews. Conducted exploratory data analysis (EDA) and data preprocessing, and built models such as Bag-of-Words, Word2Vec, and Neural Networks. Integrated map visualization to enhance the recommendation experience. 
 
 ### 🌐  
