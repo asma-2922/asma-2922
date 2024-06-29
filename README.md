@@ -22,6 +22,8 @@ I am a passionate data scientist with a strong foundation in machine learning, d
 - **[Aspect-based Sentiment Analysis for Informed Shopping](https://github.com/asma-2922/Aspect-based-sentiment-analysis-for-informed-shopping)**  
   Addressed the discrepancies between product descriptions and actual product quality or functionality. This project aimed to reduce uncertainty and assist consumers in making better-informed purchasing decisions by analyzing reviews to provide insights into specific aspects of products.
 
+- **[Sales Performance Dashboard](https://github.com/asma-2922/Sales-Performance-Dashboard)**
+
 ### 🌐  
 - **LinkedIn:** [Asma Narmawala](https://www.linkedin.com/in/asma-narmawala-661709209/)
 - **GitHub:** [asma-2922](https://github.com/asma-2922)
