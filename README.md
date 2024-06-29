@@ -4,14 +4,12 @@ I am a passionate data scientist with a strong foundation in machine learning, d
 
 ### 🛠 Technical Skills
 - **Programming Languages:** Python, SQL, C, R
-- **Data Analysis:** MS Office (Excel, Word, PowerPoint), Data Preprocessing, Exploratory Data Analysis, Data Visualization, Dashboard making
+- **Data Analysis:** MS Office(Excel, Word, PowerPoint), Data Preprocessing, Exploratory Data Analysis, Data Visualization, Dashboard making
 - **Machine Learning, Deep Learning, Recommender Systems**
 - **Web Scraping**
-- **Prediction and Forecasting**
 - **Database Management:** PostgreSQL, ERD Modeling, Database Design and Development
 
 ### 📈 Projects
-
 - **[Content-based Recommender System](https://github.com/asma-2922/content-based-recommendation-system)**  
   Developed a recommender system using the Google Reviews dataset for Illinois to suggest places to users based on their reviews. Conducted exploratory data analysis (EDA) and data preprocessing, and built models such as Bag-of-Words, Word2Vec, and Neural Networks. Integrated map visualization to enhance the recommendation experience.
 
