@@ -3,7 +3,7 @@
 
 ## Hey there, I'm Asma Narmawala! 👋
 
-I am a passionate data scientist with a strong foundation in machine learning, data analysis, and database management. Currently, I am pursuing my Master's in Data Science at the Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar. I hold a Bachelor's degree in Data Science from Gujarat University. My journey in this field has been driven by a deep interest in uncovering insights through data analysis, building predictive models, and efficiently managing databases.
+I am a passionate data scientist with a strong foundation in machine learning, data analysis, and database management. Currently, I am pursuing my Master's in Data Science at the Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar. 
 
 ### 🛠 Technical Skills
 - **Programming Languages:** Python, SQL, C, R
