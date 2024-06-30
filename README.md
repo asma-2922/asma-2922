@@ -10,7 +10,7 @@ I am a passionate data scientist with a strong foundation in machine learning, d
 - **Database Management:** PostgreSQL, ERD Modeling, Database Design and Development
 
 ### 💡 Projects
-- **[Database Management System for Homecare Agency](https://github.com/asma-2922/homecare-agency-dbms)**  
+- **[Database Management System for Homecare Agency](https://github.com/asma-2922/Database-Management-System-for-Homecare-Agency)**  
   Designed and implemented a comprehensive DBMS, including ERD creation, schema normalization, DDL scripting, and SQL queries. Implemented triggers for automating processes like updating worker salaries and calculating contract amounts.
 
 - **[Diagnosis of Retinal Disorder from OCT Scans](https://github.com/asma-2922/Diagnosis-of-retinal-disorders-from-OCT)**  
